@@ -1,9 +1,82 @@
-.wrapper {
+.wrapperfun {
     margin: 0 auto;
     width: 90%;
     max-width: 700px;
     margin-top: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #5E0B8F;
+    background: #3134A1;
 }
+.wrapperhome {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #5E0B8F;
+    background: rgb(141, 142, 167);
+}
+.wrapperrel {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #5E0B8F;
+    background: rgb(141, 142, 167);
+}
+.wrappersoph {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #5E0B8F;
+    background: rgb(141, 142, 167);
+}
+.wrappercorp {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #5E0B8F;
+    background: rgb(141, 142, 167);
+}
+.wrapperener {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #5E0B8F;
+    background: rgb(141, 142, 167);
+}
+.wrapperrel {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #5E0B8F;
+    background: rgb(141, 142, 167);
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 5px solid rgba(94, 11, 143, 0.973);
+    margin: 1em 0;
+    padding: 0; 
+}
+/* Top and bottom Nav */
 a {
     padding: 10px 25px;
     background: rgba(94, 11, 143, 0.973);
@@ -18,13 +91,10 @@ ul {
     background-color: rgba(94, 11, 143, 0.973);
     text-align: center;
 }
-
 li {
     float:left;
     border-right: 1px solid #bbb;
-    display: inline-block;
 }
-
 li a {
     display: block;
     color: white;
@@ -32,7 +102,6 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-
 li a:hover {
     background-color: #111;
 }
@@ -41,12 +110,54 @@ li a:hover {
 }
 .lowernav {
     text-align: center;
+    padding-bottom: 40px;
 }
-
+/* Headers and paragraph font styling */
 h1 {
     text-align: center;
+    font-size: 40px;
 }
-
 h2 {
     text-align: center;
+    font-size: 26px;
+}
+.hfun {
+    font-family: 'Permanent Marker', cursive;
+    color: #EB0042
+}
+.pfun {
+    font-family: 'Gloria Hallelujah', cursive;
+    line-height: 1.8;
+    background-color: #EE3769;
+    color: #181991;
+}
+.hsoph {
+    font-family: 'Great Vibes', cursive;
+}
+.psoph {
+    font-family: 'Courgette', cursive;
+}
+.hrel {
+    font-family: 'Merienda', cursive;
+}
+.prel{
+    font-family: 'Magra', sans-serif;
+}
+.hener {
+    font-family: 'Berkshire Swash', cursive;
+}
+.pener {
+    font-family: 'Averia Serif Libre', cursive;
+}
+.hcorp {
+    font-family: 'Stardos Stencil', cursive;
+}
+.pcorp {
+    font-family: 'Quando', serif;
+}
+.hhome {
+    font-family: 'Anton', sans-serif;
+}
+.phome {
+    font-family: 'Original Surfer', cursive;
 }
