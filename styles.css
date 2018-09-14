@@ -2,76 +2,83 @@
     margin: 0 auto;
     width: 90%;
     max-width: 700px;
-    margin-top: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
     border-style: solid;
     border-width: 7px;
-    border-color: #5E0B8F;
-    background: #B2B2E6;
+    border-color: #025F2D;
+    background: #421647;
 }
 .wrapperhome {
     margin: 0 auto;
     width: 90%;
     max-width: 700px;
-    margin-top: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
     border-style: solid;
     border-width: 7px;
-    border-color: #5E0B8F;
-    background: #FF66B5;
+    border-color: #025F2D;
+    background: #07311B;
 }
 .wrapperrel {
     margin: 0 auto;
     width: 90%;
     max-width: 700px;
-    margin-top: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
     border-style: solid;
     border-width: 7px;
-    border-color: #5E0B8F;
-    background: #9ECEE6;
+    border-color: #025F2D;
+    background: #A9B4F9;
 }
 .wrappersoph {
     margin: 0 auto;
     width: 90%;
     max-width: 700px;
-    margin-top: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
     border-style: solid;
     border-width: 7px;
-    border-color: #5E0B8F;
+    border-color: #025F2D;
     background: #611B00;
 }
 .wrappercorp {
     margin: 0 auto;
     width: 90%;
     max-width: 700px;
-    margin-top: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
     border-style: solid;
     border-width: 7px;
-    border-color: #5E0B8F;
-    background: #909898;
+    border-color: #025F2D;
+    background: #0D2B19;
 }
 .wrapperener {
     margin: 0 auto;
     width: 90%;
     max-width: 700px;
-    margin-top: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
     border-style: solid;
     border-width: 7px;
-    border-color: #5E0B8F;
-    background: #034168;
+    border-color: #025F2D;
+    background: #603006;
 }
 .wrapperrel {
     margin: 0 auto;
     width: 90%;
     max-width: 700px;
-    margin-top: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
     border-style: solid;
     border-width: 7px;
-    border-color: #5E0B8F;
+    border-color: #025F2D;
     background: rgb(141, 142, 167);
 }
 hr {
     display: block;
     border: none;
-    border-top: 5px solid rgba(94, 11, 143, 0.973);
+    border-top: 5px solid #025F2D;
     margin: 1em 0;
     padding: 0; 
 }
@@ -79,7 +86,7 @@ hr {
 
 a {
     padding: 10px 25px;
-    background: rgba(94, 11, 143, 0.973);
+    background: #025F2D;
     display: inline-block;
     color: white;
 }
@@ -88,7 +95,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgba(94, 11, 143, 0.973);
+    background-color: #025F2D;
     text-align: center;
 }
 li {
@@ -103,10 +110,10 @@ li a {
     text-decoration: none;
 }
 .active {
-    background: #E50CE8;
+    background: #10DE6F;
 }
 li a:hover {
-    background-color: #E50CE8;
+    background-color: #10DE6F;
 }
 .uppernav{
     text-align: center;
@@ -117,19 +124,17 @@ li a:hover {
 }
 /* Footer */
 footer {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    padding: 1rem;
+    position:fixed;
+    bottom:0;
+    width: 100%;
   }
 footer ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding 0;
     overflow: hidden;
-    background-color: rgba(94, 11, 143, 0.973);
     text-align: center;
+    background-color: #025F2D;
 }
 footer li {
     float:right;
@@ -152,14 +157,13 @@ h2 {
     font-size: 26px;
 }
 .hfun {
-    font-family: 'Permanent Marker', sans-serif;
-    color: #570014;
+    font-family: 'Fontdiner Swanky', sans-serif;
+    color: #DAB1E2;
 }
 .pfun {
-    font-family: 'Gloria Hallelujah', sans-serif;
-    line-height: 1.8;
-    background-color: #FF80A4;
-    color: #030368;
+    font-family: 'Rancho', sans-serif;
+    background-color: #DAB1E2;
+    color: #421647;
 }
 .hsoph {
     font-family: 'Great Vibes', sans-serif;
@@ -185,24 +189,24 @@ h2 {
 }
 .pener {
     font-family: 'Averia Serif Libre', sans-serif;
-    background: #FFD642;
-    color: #033E63;
+    background: #FFD447;
+    color: #603006;
 }
 .hcorp {
     font-family: 'Stardos Stencil', sans-serif;
-    color: #030303;
+    color: #AFB6B6;
 }
 .pcorp {
     font-family: 'Quando', serif;
-    background: #001407;
-    color: #A3A3A3;
+    background: #AAB1B1;
+    color: #0A1F13;
 }
 .hhome {
-    font-family: 'Anton', sans-serif;
-    color:#1A0033;
+    font-family: 'Righteous', sans-serif;
+    color:#6ECB62;
 }
 .phome {
-    font-family: 'Original Surfer', sans-serif;
-    background: #1B2755;
-    color: #F89BC5;
+    font-family: 'Skranji', sans-serif;
+    background: #05F875;
+    color: #11221E;
 }
