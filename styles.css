@@ -7,6 +7,7 @@
     border-style: solid;
     border-width: 7px;
     border-color: #025F2D;
+    border-radius: 5px;
     background: #421647;
     box-shadow: 3px 8px 10px 3px #10DE6F;
 }
@@ -19,6 +20,7 @@
     border-style: solid;
     border-width: 7px;
     border-color: #025F2D;
+    border-radius: 5px;
     background: #07311B;
     box-shadow: 3px 8px 10px 3px #10DE6F;
 }
@@ -43,6 +45,7 @@
     border-style: solid;
     border-width: 7px;
     border-color: #025F2D;
+    border-radius: 5px;
     background: #611B00;
     box-shadow: 3px 8px 10px 3px #10DE6F;
 }
@@ -55,6 +58,7 @@
     border-style: solid;
     border-width: 7px;
     border-color: #025F2D;
+    border-radius: 5px;
     background: #0D2B19;
     box-shadow: 3px 8px 10px 3px #10DE6F;
 }
@@ -67,6 +71,7 @@
     border-style: solid;
     border-width: 7px;
     border-color: #025F2D;
+    border-radius: 5px;
     background: #603006;
     box-shadow: 3px 8px 10px 3px #10DE6F;
 }
@@ -79,6 +84,7 @@
     border-style: solid;
     border-width: 7px;
     border-color: #025F2D;
+    border-radius: 5px;
     background: rgb(141, 142, 167);
     box-shadow: 3px 8px 10px 3px #10DE6F;
 }
