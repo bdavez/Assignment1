@@ -1,0 +1,226 @@
+.wrapperfun {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #025F2D;
+    border-radius: 5px;
+    background: #421647;
+    box-shadow: 3px 8px 10px 3px #10DE6F;
+}
+.wrapperhome {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #025F2D;
+    border-radius: 5px;
+    background: #07311B;
+    box-shadow: 3px 8px 10px 3px #10DE6F;
+}
+.wrapperrel {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #025F2D;
+    background: #A9B4F9;
+    box-shadow: 3px 8px 10px 3px #10DE6F;
+}
+.wrappersoph {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #025F2D;
+    border-radius: 5px;
+    background: #611B00;
+    box-shadow: 3px 8px 10px 3px #10DE6F;
+}
+.wrappercorp {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #025F2D;
+    border-radius: 5px;
+    background: #0D2B19;
+    box-shadow: 3px 8px 10px 3px #10DE6F;
+}
+.wrapperener {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #025F2D;
+    border-radius: 5px;
+    background: #603006;
+    box-shadow: 3px 8px 10px 3px #10DE6F;
+}
+.wrapperrel {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: #025F2D;
+    border-radius: 5px;
+    background: rgb(141, 142, 167);
+    box-shadow: 3px 8px 10px 3px #10DE6F;
+}
+hr {
+    display: block;
+    border: none;
+    border-top: 5px solid #025F2D;
+    margin: 1em 0;
+    padding: 0; 
+}
+/* Top and bottom Nav */
+a {
+    padding: 10px 25px;
+    background: #025F2D;
+    display: inline-block;
+    color: white;
+    margin-top: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #025F2D;
+    text-align: center;
+}
+li {
+    float:left;
+    border-right: 1px solid #bbb;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.active {
+    background: #10DE6F;
+}
+li a:hover {
+    background-color: #10DE6F;
+}
+.uppernav{
+    text-align: center;
+}
+.uppernav a {
+    margin-top: 0;
+}
+.lowernav {
+    text-align: center;
+    padding-bottom: 40px;
+}
+/* Footer */
+footer {
+    position:fixed;
+    bottom:0;
+    width: 100%;
+}
+footer ul {
+    list-style-type: none;
+    margin: 0;
+}
+footer li {
+    float:right;
+    border-right: 1px solid #bbb;
+}
+footer li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: 0;
+}
+/* Headers and paragraph font styling */
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+h2 {
+    text-align: center;
+    font-size: 26px;
+}
+.hfun {
+    font-family: 'Fontdiner Swanky', sans-serif;
+    color: #DAB1E2;
+}
+.pfun {
+    font-family: 'Rancho', sans-serif;
+    background-color: #DAB1E2;
+    color: #421647;
+    font-size: 20px;
+}
+.hsoph {
+    font-family: 'Great Vibes', sans-serif;
+    color: #B5D37E;
+}
+.psoph {
+    font-family: 'Courgette', sans-serif;
+    background:#1F2B0D;
+    color: #FF9C75;
+}
+.hrel {
+    font-family: 'Merienda', sans-serif;
+    color: #111E69;
+}
+.prel{
+    font-family: 'Magra', sans-serif;
+    background: #0F1B62;
+    color:#7DB8FC;
+}
+.hener {
+    font-family: 'Berkshire Swash', sans-serif;
+    color: #FFD447;
+}
+.pener {
+    font-family: 'Averia Serif Libre', sans-serif;
+    background: #FFD447;
+    color: #603006;
+}
+.hcorp {
+    font-family: 'Stardos Stencil', sans-serif;
+    color: #AFB6B6;
+}
+.pcorp {
+    font-family: 'Quando', serif;
+    background: #AAB1B1;
+    color: #0A1F13;
+}
+.hhome {
+    font-family: 'Righteous', sans-serif;
+    color:#6ECB62;
+}
+.phome {
+    font-family: 'Skranji', sans-serif;
+    background: #05F875;
+    color: #11221E;
+}
